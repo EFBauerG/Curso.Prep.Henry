@@ -49,7 +49,6 @@ function eliminarPropiedad(objeto, unaPropiedad) {
   // Devuelve el objeto
   // Tu código:
   delete objeto[propiedad];
-
   return objeto;
 }
 
