@@ -11,7 +11,7 @@ function crearUsuario() {
   function Usuario(opciones) {
     this.usuario = opciones.usuario;
     this.nombre = opciones.nombre;
-    this.email = opciones.uemail;
+    this.email = opciones.email;
     this.password = opciones.password;
   }
 
